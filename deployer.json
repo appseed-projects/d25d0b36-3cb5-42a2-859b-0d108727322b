@@ -1,0 +1,5 @@
+{
+    "name": "app/static/apps/d25d0b36-3cb5-42a2-859b-0d108727322b",
+    "type": "fullstack",
+    "dirs": "api-server-flask, react-ui"
+}
